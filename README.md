@@ -4,7 +4,7 @@ mobil.live ist eine Mobilitätsanwendung der KielRegion, welche die verschiedene
 ## Sourcen
 Der Sourcecode des mobile.live wird von der Firma Hanseatics entwickelt und gepflegt. Er ist notwendig, um daraus ein entsprechendes Docker-Image zu erzeugen.
 
-## TL;TR
+## TL;DR
 
 ```bash
 docker build -t mobile-live:latest .
