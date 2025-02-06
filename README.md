@@ -10,5 +10,8 @@ Der Sourcecode des mobile.live wird von der Firma Hanseatics entwickelt und gepf
 docker build -t mobile-live:latest .
 ````
 
+## Screenshot
+![mobil.kielregion.de](img/image.png)
+
 ## Links
 https://mobil.kielregion.de/
